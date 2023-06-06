@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <title>Lógica y Programación</title>
+
+  
+
+</head>
+
+<body bgcolor="gray">
+
+  <h1 style="color:darkred;">Lógica y Programación </h1>
+
+  <h3> <marquee direction=down>Lunes,  Martes,  Miércoles</marquee ></h3>
+
+  <h2 style="color:darkred;">Triunfadores:</h2>
+
+  
+
+  <p>Haydee Gudiño<br>Winston Segovia<br>Keimer Gallardo<br>Aurimar Teran<br>Aurimar Teran<br>Ramón García<br>Hector Aldana</p>
+
+  <h2 style="color:darkred;">Profesor:</h2>
+
+  <p>Eduardo Pacheco</p>
+
+ <h2 style="color:darkred;">Vocera:</h2>
+
+ <p>Haydee Gudiño</p>
+
+ <h3><marquee direction=up>Café Venezuela</marquee></h3>
+
+ 
+
+  <h3><marquee behavior="alternate">Café Venezuela</marquee></h3>
+
+  
+
+  <h3><marquee direction="up" width="150" height="100" behavior="alternate" style="border: solid">Café Venezuela</marquee></h3>
+
+  
+
+</body>
+
+</html>
